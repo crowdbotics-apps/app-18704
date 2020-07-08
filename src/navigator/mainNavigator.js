@@ -11,7 +11,6 @@ import NotificationList75640Navigator from '../features/NotificationList75640/na
 import Settings75639Navigator from '../features/Settings75639/navigator';
 import Settings75631Navigator from '../features/Settings75631/navigator';
 import UserProfile75629Navigator from '../features/UserProfile75629/navigator';
-import SignUp2775524Navigator from '../features/SignUp2775524/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
 import MapsNavigator from '../features/Maps/navigator';
@@ -34,7 +33,6 @@ NotificationList75640: { screen: NotificationList75640Navigator },
 Settings75639: { screen: Settings75639Navigator },
 Settings75631: { screen: Settings75631Navigator },
 UserProfile75629: { screen: UserProfile75629Navigator },
-SignUp2775524: { screen: SignUp2775524Navigator },
 Messenger: { screen: MessengerNavigator },
 Tutorial: { screen: TutorialNavigator },
 Maps: { screen: MapsNavigator },
